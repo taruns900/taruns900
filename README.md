@@ -47,7 +47,7 @@
 - A robust database management system for handling large datasets.
 - Technologies: MySQL, Python, Flask.
 
-### [Project 3: Todo List Web App](https://github.com/your-username/todo-list)
+### [Project 3: Todo List Web App](https://github.com/taruns900/ToDoList)
 - A simple and interactive todo list application.
 - Technologies: HTML, CSS, JavaScript.
 
