@@ -3,10 +3,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 <br><br>
 
-🎓 **MCA Student** with a background in **Computer Science**
-🤖 Passionate about **Deep Learning**, **Database Management**, and **DevOps**
-🚀 Looking to collaborate on **Database Management** and **Text-Based Emotion Classification using Deep Learning**
-📚 Currently Learning: **PyTorch** and **Object-Oriented Programming**
+🎓 **MCA Student** with a background in **Computer Science**  
+🤖 Passionate about **Deep Learning**, **Database Management**, and **DevOps**  
+🚀 Looking to collaborate on **Database Management** and **Text-Based Emotion Classification using Deep Learning**  
+📚 Currently Learning: **PyTorch** and **Object-Oriented Programming**  
 💡 <span style="color: #A9A9A9; font-style: italic;">"Code is like humor. When you have to explain it, it’s bad." – Cory House</span>
 
 ---
