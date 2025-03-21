@@ -39,9 +39,9 @@
 
 ## 🌟 **Projects**
 
-### [Project 1: Text-Based Emotion Classification](https://github.com/your-username/project-1)
-- A deep learning model to classify emotions from text using PyTorch.
-- Technologies: Python, PyTorch, NLP.
+### [Project 1: Train Ticket Reservation System](https://github.com/your-username/train-ticket-reservation)
+- Built a web-based train ticket reservation system enabling users to search trains, check seat availability, and book tickets.
+- Implemented admin functionalities to add, update, and remove trains, and user features like fare enquiry and profile management.
 
 ### [Project 2: Database Management System](https://github.com/your-username/project-2)
 - A robust database management system for handling large datasets.
